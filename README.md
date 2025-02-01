@@ -3,8 +3,8 @@
 
 <!-- Cabeçalho -->
 
-# Título 1
-## Título 2
+# _Título 1_
+## **Título 2**
 ### Título 3
 #### Título 4
 ##### Título 5
