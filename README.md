@@ -1,21 +1,8 @@
-## Hi there 👋
+## Hello world 👋
 
 
-<!-- Cabeçalho -->
 
- **Negrito**
- *italico*
-___Texto___
-
-- lista 1
-- lista 2
-  - sublista
-
-  1. lista 
-  2. lista
-    2. lista
-
-    !(https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif)
+    ![](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif)
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
