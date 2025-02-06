@@ -9,7 +9,7 @@
 
 📱 I’m currently learning mobile sofware developer 
 
-![Contact-me] (https://www.linkedin.com/in/diovanne-santos)
+[Contact-me] (https://www.linkedin.com/in/diovanne-santos)
 
 
 <!--
