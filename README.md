@@ -3,14 +3,19 @@
 ![alt text](https://i.gifer.com/6M8R.gif)
 
 
-👽 I'm Diovanne Santos
+👽 I'm Diovanne Santos - System Quality Assurance Analyst and mobile software developer 
 
-💻 I'm currently working as Software Quality Assurance
+💻 I'm currently working as System Quality Assurance Analyst
 
-📱 I’m currently learning mobile sofware developer 
+📱 I’m currently learning mobile software developer 
 
-[Contact-me] (https://www.linkedin.com/in/diovanne-santos)
+📧 Contact me https://www.linkedin.com/in/diovanne-santos
 
+
+## My skills 
+
+
+<img src="https://pt.wikipedia.org/wiki/Linux#/media/Ficheiro:Tux.svg">
 
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
