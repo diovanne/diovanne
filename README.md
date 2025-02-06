@@ -1,6 +1,14 @@
 ## Hello world 👋
 
 ![alt text](https://i.gifer.com/6M8R.gif)
+
+
+👽 I'm Diovanne Santos
+
+💻 I'm currently working as Software Quality Assurance
+
+🌱 I’m currently learning ...
+
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
