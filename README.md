@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-![alt text](https://i.gifer.com/6M8R.gif)
+<center>![alt text](https://i.gifer.com/6M8R.gif)</center>
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
