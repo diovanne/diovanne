@@ -1,8 +1,6 @@
 ## Hello world 👋
 
-
-
-    ![dev](https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif)
+![alt text](https://i.gifer.com/6M8R.gif)
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
