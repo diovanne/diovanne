@@ -15,7 +15,7 @@
 ## My skills 
 
 
-<img src="https://www.primotech.com/wp-content/uploads/2023/04/Reasons-To-Choose-Flutter-For-Your-Cross-Platform-Projects.png" width="100px" height="100px" alt="linux">
+<img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" width="100px" height="100px" alt="flutter">
 
 
 
