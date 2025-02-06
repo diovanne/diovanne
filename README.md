@@ -15,12 +15,12 @@
 ## My skills 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-width=100px height=100px alt='linux'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=100px height=100px alt='flutter'/> 
+width=50px height=50px alt='linux'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=50px height=50px alt='linux'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-width=100px height=100px alt='cypress'/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width=100px height=100px alt='insominia'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width=100px height=100px alt='postman'/>
+width=50px height=50px alt='linux'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width=50px height=50px alt='linux'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width=50px height=50px alt='linux'/>
           
 
 
