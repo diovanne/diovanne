@@ -15,7 +15,9 @@
 ## My skills 
 
 
-<img src="https://pt.wikipedia.org/wiki/Linux#/media/Ficheiro:Tux.svg">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3521549-2944967.png" width="200" height="200" alt="Your Image">
+
+
 
 <!--
 **diovanne/diovanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
