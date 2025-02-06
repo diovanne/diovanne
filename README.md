@@ -15,7 +15,7 @@
 ## My skills 
 
 
-<img src="https://banner2.cleanpng.com/20180729/ss/d7abf3649e2c80fa5da4d774643dbef1.webp" width="200" height="200" alt="Your Image">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3521549-2944967.png" width="200" height="200" alt="Your Image">
 
 
 
