@@ -15,7 +15,7 @@
 ## My skills 
 
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3521549-2944967.png" width="100px" height="100px" alt="linux">
+<img src="https://www.primotech.com/wp-content/uploads/2023/04/Reasons-To-Choose-Flutter-For-Your-Cross-Platform-Projects.png" width="100px" height="100px" alt="linux">
 
 
 
