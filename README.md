@@ -15,7 +15,7 @@
 ## My skills 
 
 
-<img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" width="100px" height="100px" alt="flutter">
+<img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" width="200px" height="200px" alt="flutter">
 
 
 
