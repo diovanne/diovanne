@@ -15,7 +15,7 @@
 ## My skills 
 
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3521549-2944967.png" width="200" height="200" alt="Your Image">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-3521549-2944967.png" width="100px" height="100px" alt="linux">
 
 
 
