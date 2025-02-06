@@ -14,8 +14,10 @@
 
 ## My skills 
 
-
-<img src="https://w7.pngwing.com/pngs/348/885/png-transparent-flutter-dev-illustration.png" width="200px" height="200px" alt="flutter">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+width=100px height=100px alt='linux'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width=100px height=100px alt='flutter'/> 
+          
 
 
 
