@@ -3,7 +3,7 @@
 
 
 <p align="center">
-![alt text](https://i.gifer.com/6M8R.gif)
+  <img width="460" height="300" src="https://i.gifer.com/6M8R.gif">
 </p>
 
 👽 I'm Diovanne Santos - System Quality Assurance Analyst and mobile software developer 
