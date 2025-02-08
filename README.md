@@ -1,8 +1,9 @@
+<p align="center">
 
 ## Hello world 👋
 
 
-<p align="center">
+
   <img width="460" height="300" src="https://i.gifer.com/6M8R.gif">
 </p>
 
