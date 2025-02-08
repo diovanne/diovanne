@@ -1,6 +1,6 @@
-<center>
+
 ## Hello world 👋
-</center>
+
 
 
 ![alt text](https://i.gifer.com/6M8R.gif)
