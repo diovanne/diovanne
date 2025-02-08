@@ -1,10 +1,10 @@
 ## Hello world 👋
 
-< p align = " centro " > 
+<center>
 
 ![alt text](https://i.gifer.com/6M8R.gif)
-</ p >
 
+</center>
 👽 I'm Diovanne Santos - System Quality Assurance Analyst and mobile software developer 
 
 💻 I'm currently working as System Quality Assurance Analyst
