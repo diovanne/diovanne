@@ -1,17 +1,17 @@
 
 
-## Hello world I'm Diovanne Santos 👋
+</h1><center>Hello world I'm Diovanne Santos 👋</h1></center>
 
 <p align="center">
 
   <img width="460" height="300" src="https://i.gifer.com/6M8R.gif">
 </p>
 
-👽 I'm Diovanne Santos - System Quality Assurance Analyst and mobile software developer 
+👽 System Quality Assurance Analyst and mobile software developer 
 
 💻 I'm currently working as System Quality Assurance Analyst
 
-📱 I’m currently learning mobile software developer 
+📱 I’m currently learning mobile software developer
 
 📧 Contact me https://www.linkedin.com/in/diovanne-santos
 
